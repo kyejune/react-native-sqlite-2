@@ -1,3 +1,5 @@
+react-native-sqlite-2 에서 .db 저장 경로를 수정하였습니다.
+
 # React Native SQLite 2
 
 SQLite3 Native Plugin for React Native for Android/iOS/Windows.
